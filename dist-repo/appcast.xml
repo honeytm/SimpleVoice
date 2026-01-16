@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>SimpleVoice Updates</title>
+        <link>https://github.com/honeytm/SimpleVoice</link>
+        <description>SimpleVoiceの最新アップデート情報</description>
+        <language>ja</language>
+        <item>
+            <title>バージョン 1.0.1</title>
+            <sparkle:releaseNotesLink>https://github.com/honeytm/SimpleVoice/releases/tag/v1.0.1</sparkle:releaseNotesLink>
+            <pubDate>Sat, 17 Jan 2026 00:20:25 +0900</pubDate>
+            <enclosure
+                url="https://github.com/honeytm/SimpleVoice/releases/download/v1.0.1/SimpleVoice-1.0.1.dmg"
+                sparkle:version="101"
+                sparkle:shortVersionString="1.0.1"
+                sparkle:edSignature="5eQo/3BB8tcAuKEucvVYf4aLBaeS5+VG5ruFQJK1/v8DhK9fLoz4UbPZbAGuJwZJzkhNSS/21FLg/t5Ib5mmBw=="
+                length="5107924"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
