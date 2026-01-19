@@ -8,13 +8,13 @@
         <item>
             <title>バージョン 1.0.2</title>
             <sparkle:releaseNotesLink>https://github.com/honeytm/SimpleVoice/releases/tag/v1.0.2</sparkle:releaseNotesLink>
-            <pubDate>Mon, 19 Jan 2026 15:44:23 +0900</pubDate>
+            <pubDate>Mon, 19 Jan 2026 16:03:09 +0900</pubDate>
             <enclosure
                 url="https://github.com/honeytm/SimpleVoice/releases/download/v1.0.2/SimpleVoice-1.0.2.dmg"
                 sparkle:version="102"
                 sparkle:shortVersionString="1.0.2"
-                sparkle:edSignature="sparkle:edSignature=bCn/YUCdRznnUHPYYc78BMGsBtp9heJrj/pisfPnIy39CUU2qYCDYBEBo7aGrUSz49AgPkTg84P25S/nVMZTBw== length=5093691"
-                length="5093691"
+                sparkle:edSignature="svlFxYUK5NETzp6gyM0YHrh1sZQ1UvIAsI/zojEhSK6eYhyWQMLR+g1cUHdZ1hW7Ha6CN3iTemiYylfb35OLCA=="
+                length="5094767"
                 type="application/octet-stream"
             />
         </item>
